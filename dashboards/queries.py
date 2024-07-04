@@ -41,13 +41,6 @@ columnDefsProducts = [
     {"field": 'product_name',},
 ]
 
-# Sample user data
-user_data = {
-    "username": "Priscilla Alakara",
-    "email": "alakara@gmail.com",
-    "password": "password123"  # In a real app, this would be securely hashed and managed
-}
-
 def generate_column_defs(data):
     return [{"headerName": i, "field": i, "flex": 1} for i in data.columns]
 navbar = html.Div(
