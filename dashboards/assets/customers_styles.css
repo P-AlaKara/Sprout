@@ -1,0 +1,60 @@
+.stats-cust {
+    margin-top: 0;
+    padding-top: 17px;
+    padding-bottom: 16px;
+    width: 13rem;
+}
+.cust-stats-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.cust-row-two{
+    width: 73vw;
+}
+h3 {
+    font-size: medium;
+    font-weight: bold;
+    margin: 0;
+}
+.date-range-picker{
+    font-size: small;
+    background-color: rgb(40, 37, 37);
+    color: white;
+}
+.grouped-bar-container {
+    margin-top: 1rem;
+}
+.DateInput_input{
+    background-color: rgb(40, 37, 37);
+    color: white;
+    font-size: small;
+}
+.DateInput{
+    background-color: rgb(40, 37, 37);
+    border: 1px solid rgb(69, 68, 68);
+}
+.DateRangePickerInput {
+    background-color: rgb(40, 37, 37);
+    color: white;
+    border-color: #333333;
+}
+.chart-cust {
+    padding-top: 4px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+#bar-chart-two{
+    margin: 0;
+}
+.row {
+    margin: 0;
+}
+.cust-row-three {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}

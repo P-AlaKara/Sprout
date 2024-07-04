@@ -1,0 +1,161 @@
+.goals-container {
+    background-color: rgb(40, 37, 37);
+    margin-top: 0;
+}
+.goal {
+    border-radius: 10%;
+    background-color: rgb(40, 37, 37);
+    padding: 1rem;
+    margin-top: 3rem;
+    height: 50vh;
+    align-items: center;
+    border: 5px solid transparent;
+    border-image: linear-gradient(to right, red, yellow, green);
+    border-image-slice: 1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 10px;
+}
+.goal_one{
+    margin-top: 30px;
+}
+#globe-icon, globe-icon-cust {
+    margin-left: 0;
+}
+.goal-button {
+    padding: 0.7rem;
+    margin-right: 3rem;
+    width: 12rem;
+    border-radius: 25px;
+    border: 0;
+    margin-bottom: 0;
+    margin-top: 1rem;
+    color: white;
+}
+.sales-button {
+    background-color: rgb(71, 71, 207);
+    margin-left: 15rem;
+}
+.sales-button:hover{
+    background-color: azure;
+    color: black;
+}
+.cust-button {
+    background-color: rgb(183, 77, 77);
+}
+.cust-button:hover{
+    background-color: azure;
+    color: black;
+}
+.sales-form-text, .cust-form-text{
+    margin-top: 2rem;
+}
+.target-scope input{
+    background-color: rgb(40, 37, 37);
+}
+#time-frame{
+    text-align: center;
+}
+#sales-type {
+    width: 30rem;
+    height: 2.5rem;
+    color: black;
+}
+#actual-value, #actual-value-cust {
+    width: 30rem;
+    height: 2.5rem;
+}
+#target-scope {
+    width: 30rem;
+    height: 2.5rem;
+    margin-bottom: 0;
+    color: black;
+}
+#target-scope-cust{
+    color: black;
+}
+#submit-button{
+    width: 10rem;
+    border-radius: 25px;
+    border: 0;
+    height: 2.5rem;
+    background-color: rgb(71, 71, 207);
+    color: white;
+    margin-top: 10px;
+}
+#submit-button:hover{
+    background-color: azure;
+    color: black;
+}
+#sales-type-container{
+    margin-top: 0;
+}
+#sales-type-container h3{
+    text-align: center;
+    margin-top: 15px;
+}
+#actual-value-container h3{
+    text-align: center;
+}
+.DateInput_input {
+    /*width: 35rem;*/
+    border:0;
+    background-color: white;
+    color: black;
+    height: 2.5rem;
+}
+.form-label {
+    margin-top: 0;
+}
+.form-label-tf{
+    margin-top: 10px;
+}
+.form-label-cust-value{
+    text-align: center;
+    margin-top: 0;
+}
+.label-cust-tf {
+    margin-top: 10px;
+}
+#submit-button-cust{
+    width: 10rem;
+    border-radius: 25px;
+    border: 0;
+    height: 2.5rem;
+    background-color: rgb(183, 77, 77);
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 5rem;
+}
+#submit-button-cust:hover{
+    background-color: azure;
+    color: black;
+}
+.content-goals {
+    margin-left: 24vw;
+    width: 73vw;
+}
+.goals-buttons{
+    display: flex;
+    flex-direction: row;
+}
+.goal-one-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+#time-frame-cust{
+    color: black;
+}
+/*.SingleDatePicker {
+    width: 23rem;
+    border-radius: 15px;
+    text-align: center;
+    margin: 2px auto;
+}
+.SingleDatePickerInput {
+    border: 1px solid gray;
+}*/
+
+

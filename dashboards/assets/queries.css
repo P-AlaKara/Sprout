@@ -1,0 +1,81 @@
+.ag-theme-alpine {
+    --ag-borders-input: solid 2px !important;
+    --ag-input-border-color: red !important;
+    --ag-odd-row-background-color: rgb(0, 0, 0, 0.03);
+    height: 76vh !important;
+    --ag-background-color: rgb(40,37,37);
+    background-color: var(--ag-background-color);
+    --ag-data-color: #ffffff;
+    margin-top: 2vh;
+    --ag-header-foreground-color: #f96205;
+    --ag-foreground-color: var(--ag-header-foreground-color);
+}
+.ag-number-field{
+    background-color: #ffffff !important;
+}
+.ag-theme-alpine .ag-text-field-input {
+    background-image: linear-gradient(to right, white, #fc8d62) !important;
+}
+
+.ag-theme-alpine .ag-text-field-input::placeholder {
+    color: red !important;
+    font-weight: bold;
+}
+.heading-text {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.icon-header-quer{
+    width: 4rem !important;
+    color: white;
+    height: 1.5rem !important;
+}
+.navbar-light{
+    background-color: #181719 !important;
+    margin-bottom: -25px;
+    margin-top: -20px;
+    border-bottom: 1px solid white;
+    padding-bottom: 0 !important;
+}
+.navbar-header{
+    margin-bottom: 0;
+}
+.navbar-nav{
+    margin-bottom: 0;
+}
+#tabs-example{
+    background-color: rgb(40,37,37) !important;
+    color: white;
+    margin-bottom: 0;
+    margin-top: 10px !important;
+}
+#tabs-example-parent{
+    background-color: rgb(1, 3, 70) !important;
+    margin-bottom: 0;
+    width: 97vw !important;
+    margin-top: 10px !important;
+    margin-left: 1vw !important;
+}
+.cust-tab{
+    background-color: rgb(57, 2, 2) !important;
+    color: white !important;
+    align-items: center !important;
+    padding-top: 1rem !important;
+    width: 33vw !important;
+}
+/*.tab--selected{
+    background-color: #ffffff !important;
+    color: black !important;
+}*/
+.sales-tab{
+    background-color:rgb(0, 30, 5) !important;
+    color: white !important;
+    width: 33vw !important;
+}
+.prod-tab{
+    background-color: rgb(1, 3, 70) !important;
+    color: white !important;
+    width: 33vw !important;
+}
+

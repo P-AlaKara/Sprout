@@ -1,0 +1,70 @@
+#header-prod {
+    margin-top: 1rem;
+    font-size: 1.3rem;
+    margin-bottom: 0;
+    margin-left: 15px;
+    font-weight: bolder;
+}
+.header-icons-prod{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    width: 74vw;
+    top: 0;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    margin-top: -2.5rem;
+}
+.icon-header-prod{
+    font-size: 30px;
+    margin-right: 40px;
+}
+.icon-header-prod:last-of-type{
+    margin-right: 50px;
+}
+.stats-prod {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+    width: 13rem;
+    height: 6rem;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.prod-stats-col{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.prod-stats-row{
+    width: 73vw;
+}
+.prod-stats-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.stats_one {
+    background-color: rgb(178, 8, 8);
+}
+.stats_two{
+    background-color: rgb(178, 118, 6);
+}
+.stats_three {
+    background-color: rgb(1, 156, 1);
+}
+.stats_four {
+    background-color: rgb(3, 3, 182);
+}
+.chart {
+    margin-top: 1rem;
+}
+#scatter-chart {
+    margin-right: 0;
+}
+.prod-row-two, .prod-row-three{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.prod-divider, .prod-hr{
+    width: 73vw;
+}

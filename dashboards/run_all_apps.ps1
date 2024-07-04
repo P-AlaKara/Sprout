@@ -1,0 +1,6 @@
+Start-Process -NoNewWindow -FilePath "python" -ArgumentList "sales_dashboard.py"
+Start-Process -NoNewWindow -FilePath "python" -ArgumentList "products-dashboard.py"
+Start-Process -NoNewWindow -FilePath "python" -ArgumentList "customers-dashboard.py"
+Start-Process -NoNewWindow -FilePath "python" -ArgumentList "goals.py"
+Start-Process -NoNewWindow -FilePath "python" -ArgumentList "analysis.py"
+Start-Process -NoNewWindow -FilePath "python" -ArgumentList "queries.py"

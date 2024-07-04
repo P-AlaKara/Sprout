@@ -1,0 +1,222 @@
+/* Custom properties/variables  */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --main-white: #f0e8e7;
+    --main-red: #be3144;
+    --main-blue: #45567d;
+    --main-gray: rgb(40, 37, 37);
+}
+.bar-radio{
+    display:flex;
+    justify-content: space-around;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+.logo-img {
+    width: 15vw;
+    height: 20vh;
+    margin-left: 60px;
+    border-right: 2rem solid rgb(40, 37, 37);
+    border-left: 2rem solid rgb(40, 37, 37);
+    margin-top: 0.7rem;
+}
+.sidebar{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 25vw;
+    height: 100vh;
+    background-color: rgb(40, 37, 37);
+    z-index: 1;
+}
+
+body{
+    color: #f0f0f0;
+    background-image: linear-gradient(62deg, #212121 0%, #181719 100%);
+}
+.plot-container {
+    padding: 0;
+}
+.plot {
+    width: 100%;
+}
+.content {
+    margin-left: 23vw;
+    margin-right: 0 !important;
+}
+.navbar ul {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+}
+.navbar ul li {
+    padding: 10px;
+    margin-top: 1px;
+    margin-left: 2.8rem;
+}
+.navbar ul li a{
+    color: #f0f0f0;
+    text-decoration: none;
+}
+.six-columns{
+    color:black;
+}
+.sidebar {
+    background-color: rgb(40, 37, 37);
+    /*border-right: 1px solid var(--main-white);*/
+}
+#data-table {
+    width: 43vw;
+    height: 43vh;
+    overflow-y: auto;
+    margin-top: 5px;
+    border: 5px solid rgb(43, 40, 40);
+    /*border-radius: 25px;*/
+    border-collapse: collapse;
+}
+#data-table th{
+    background-color: #be3144;
+    font-weight: bolder;
+    border-bottom: 5px solid #f0e8e7;
+    padding: 8px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#data-table tbody td{
+    background-color: rgb(40, 37, 37);
+    color: white;
+    padding: 8px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+#controls-and-graph {
+   border: 1px solid rgb(40, 37, 37);
+   border-radius: 10px;
+}
+#controls-and-radio-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.btn{
+    width: 450px;
+}
+#pie-chart-sales {
+    margin-top: 10px;
+}
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+nav li a {
+    text-decoration: none;
+    color:#f0e8e7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav li{
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 35px;
+    margin-bottom: 18px;
+}
+.icon {
+    margin-right: 5px;
+}
+.stats {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 16vw;
+    margin-left: 1px !important;
+    margin-right: 0 !important;
+    height: 23vh;
+}
+#header-sales {
+    position: fixed;
+    top: 0;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: sans-serif;
+    margin-left: 20px;
+    padding-top: 10px;
+    z-index: 5;
+    font-weight: bolder;
+}
+.stats-col{
+    width: 16vw !important;
+    margin: 0 !important;
+}
+.stats-row-1, .stats-row-2{
+    width: 34vw;
+}
+.stats-cont{
+    width: 34vw !important;
+    margin-top: 3.2rem;
+}
+.hist-cont{
+    width: 34vw !important;
+    margin-left: 1.5rem;
+    margin-top: 3.5rem;
+}
+.first-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.second-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-bottom: 5px;
+}
+.divider{
+    width: 76vw;
+    margin-top: 3.6rem;
+}
+.header-icons{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    width: 74vw;
+    position: fixed;
+    top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(40, 37, 37);
+    z-index: 2;
+    box-shadow: 0 2px 0 rgba(69, 67, 67, 0.4);
+}
+.icon-header{
+    width: 4rem !important;
+    color: white;
+    height: 1.5rem !important;
+    margin-right: 40px;
+}
+.last-row{
+    margin: 2px auto;
+}
+/*
+#pie-chart{
+    position: absolute;
+    top: -500px;
+    bottom: 0px;
+    right: -100px;
+    width: 100%;
+    height: 200px;
+    padding: 0;
+    margin-right: 0;
+    float: right;
+}

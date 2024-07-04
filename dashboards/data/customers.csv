@@ -1,0 +1,794 @@
+customer_ID,customer_name,age,segment,Date Joined
+CG-12520,Claire Gute,19,Consumer,28/11/2022
+DV-13045,Claire Gute,21,Consumer,23/04/2022
+SO-20335,Darrin Van Huff,20,Corporate,10/12/2022
+BH-11710,Sean O'Donnell,23,Consumer,24/04/2021
+AA-10480,Sean O'Donnell,31,Consumer,23/04/2020
+IM-15070,Brosina Hoffman,22,Consumer,08/01/2020
+HP-14815,Brosina Hoffman,35,Consumer,22/10/2022
+PK-19075,Brosina Hoffman,23,Consumer,03/10/2021
+AG-10270,Brosina Hoffman,64,Consumer,22/07/2023
+ZD-21925,Brosina Hoffman,30,Consumer,14/12/2021
+KB-16585,Brosina Hoffman,67,Consumer,24/09/2021
+SF-20065,Brosina Hoffman,35,Consumer,15/12/2021
+EB-13870,Andrew Allen,58,Consumer,17/06/2023
+EH-13945,Irene Maddox,24,Consumer,09/09/2020
+TB-21520,Harold Pawlan,37,Home Office,23/03/2023
+MA-17560,Harold Pawlan,22,Home Office,17/03/2021
+GH-14485,Pete Kriz,35,Consumer,14/01/2022
+SN-20710,Alejandro Grove,20,Consumer,18/04/2020
+LC-16930,Zuschuss Donatelli,52,Consumer,10/05/2022
+RA-19885,Zuschuss Donatelli,35,Consumer,13/01/2022
+ES-14080,Zuschuss Donatelli,35,Consumer,16/05/2020
+ON-18715,Ken Black,25,Corporate,25/08/2022
+PO-18865,Ken Black,46,Corporate,05/07/2023
+LH-16900,Sandra Flanagan,31,Consumer,04/03/2023
+DP-13000,Emily Burns,54,Consumer,26/07/2020
+JM-15265,Eric Hoffmann,29,Consumer,27/01/2021
+TB-21055,Eric Hoffmann,45,Consumer,08/05/2021
+KM-16720,Tracy Blumstein,35,Consumer,30/11/2021
+PS-18970,Tracy Blumstein,40,Consumer,31/12/2021
+BS-11590,Tracy Blumstein,23,Consumer,04/05/2022
+NC-18340,Tracy Blumstein,60,Consumer,30/11/2022
+KD-16270,Tracy Blumstein,21,Consumer,14/10/2022
+HM-14980,Tracy Blumstein,53,Consumer,12/12/2023
+JE-15745,Tracy Blumstein,18,Consumer,25/07/2023
+KB-16600,Matt Abelman,49,Home Office,25/12/2020
+SC-20770,Gene Hale,21,Corporate,22/04/2020
+DN-13690,Gene Hale,42,Corporate,26/08/2021
+JC-16105,Steve Nguyen,30,Home Office,15/06/2021
+CS-12400,Steve Nguyen,36,Home Office,02/08/2022
+PG-18895,Steve Nguyen,20,Home Office,02/02/2022
+GM-14455,Steve Nguyen,65,Home Office,13/03/2022
+JS-15685,Linda Cazamias,24,Corporate,21/07/2021
+KB-16315,Ruben Ausman,48,Corporate,06/06/2023
+RB-19705,Erin Smith,31,Corporate,06/11/2021
+PN-18775,Odella Nelson,49,Corporate,06/07/2022
+KD-16345,Odella Nelson,24,Corporate,17/07/2021
+ER-13855,Patrick O'Donnell,50,Consumer,17/07/2022
+RB-19465,Lena Hernandez,27,Consumer,22/08/2020
+GZ-14470,Lena Hernandez,29,Consumer,09/11/2023
+LC-16870,Darren Powers,31,Consumer,22/07/2020
+JM-15250,Darren Powers,49,Consumer,06/08/2020
+PA-19060,Darren Powers,33,Consumer,29/10/2020
+CV-12805,Darren Powers,31,Consumer,07/09/2023
+CL-12565,Janet Molinari,59,Corporate,09/08/2021
+RC-19960,Janet Molinari,50,Corporate,18/11/2020
+DK-13090,Ted Butterfield,47,Consumer,06/09/2022
+GG-14650,Ted Butterfield,51,Consumer,06/07/2022
+SC-20725,Ted Butterfield,69,Consumer,12/04/2023
+AD-10180,Ted Butterfield,27,Consumer,22/06/2023
+PF-19165,Ted Butterfield,53,Consumer,27/03/2022
+TS-21610,Ted Butterfield,70,Consumer,20/01/2021
+LS-16975,Ted Butterfield,19,Consumer,24/06/2022
+DW-13585,Kunst Miller,67,Consumer,03/04/2021
+LC-16885,Kunst Miller,54,Consumer,22/06/2023
+JD-15895,Kunst Miller,63,Consumer,26/03/2023
+SH-19975,Kunst Miller,18,Consumer,18/08/2022
+SG-20080,Paul Stevenson,43,Home Office,16/05/2023
+HA-14920,Brendan Sweed,68,Corporate,31/08/2022
+MG-17680,Brendan Sweed,19,Corporate,30/01/2022
+JE-16165,Nat Carroll,61,Consumer,25/05/2022
+TW-21025,Karen Daniels,32,Consumer,22/11/2023
+SP-20650,Henry MacAllister,70,Consumer,14/12/2020
+NK-18490,Tracy Blumstein,47,Consumer,22/04/2021
+DB-13060,Joel Eaton,60,Consumer,18/10/2021
+NP-18670,Joel Eaton,60,Consumer,24/05/2022
+TT-21070,Joel Eaton,59,Consumer,07/09/2022
+EM-13960,Ken Brennan,26,Corporate,20/06/2023
+RD-19900,Ken Brennan,45,Corporate,30/07/2022
+MJ-17740,Ken Brennan,40,Corporate,09/08/2023
+BM-11140,Joel Eaton,23,Consumer,21/03/2020
+CS-12130,Stewart Carmichael,49,Corporate,23/05/2021
+JB-15400,Stewart Carmichael,57,Corporate,15/06/2021
+SJ-20500,Duane Noonan,38,Consumer,10/11/2020
+JK-15640,Duane Noonan,67,Consumer,02/11/2021
+DK-13150,Julie Creighton,46,Corporate,17/05/2020
+RM-19675,Christopher Schild,21,Home Office,25/09/2022
+SK-19990,Patrick O'Donnell,48,Consumer,17/07/2020
+FM-14290,Paul Gonzalez,55,Consumer,24/01/2021
+AM-10360,Paul Gonzalez,22,Consumer,17/04/2023
+MP-17470,Gary Mitchum,34,Home Office,05/06/2021
+MZ-17515,Jim Sink,50,Corporate,13/02/2021
+CB-12025,Jim Sink,68,Corporate,26/11/2022
+VM-21685,Jim Sink,18,Corporate,04/09/2023
+FH-14365,Karl Braun,48,Consumer,26/09/2022
+MB-17305,Karl Braun,40,Consumer,27/01/2022
+BS-11755,Karl Braun,32,Consumer,04/01/2023
+LC-17140,Roger Barcio,24,Home Office,26/01/2022
+HK-14890,Parhena Norris,47,Home Office,11/11/2020
+LE-16810,Katherine Ducich,27,Consumer,20/08/2023
+JH-15985,Elpida Rittenbach,48,Corporate,21/05/2020
+MS-17980,Rick Bensley,20,Home Office,19/04/2020
+VW-21775,Rick Bensley,23,Home Office,24/03/2020
+JH-15910,Rick Bensley,49,Home Office,02/04/2022
+JB-15925,Gary Zandusky,67,Consumer,09/02/2021
+DS-13180,Lena Cacioppo,26,Consumer,12/05/2021
+VD-21670,Lena Cacioppo,49,Consumer,20/04/2022
+EA-14035,Lena Cacioppo,21,Consumer,19/10/2023
+DB-13120,Janet Martin,66,Consumer,02/10/2021
+KL-16645,Janet Martin,54,Consumer,11/04/2022
+DW-13480,Janet Martin,68,Consumer,11/06/2023
+LH-17155,Pete Armstrong,66,Home Office,28/01/2020
+KC-16540,Cynthia Voltz,65,Corporate,29/09/2020
+DL-13315,Clay Ludtke,19,Consumer,15/10/2020
+DR-12880,Clay Ludtke,38,Consumer,02/01/2022
+CC-12670,Ryan Crowe,19,Consumer,18/08/2021
+Dl-13600,Ryan Crowe,18,Consumer,28/12/2023
+SB-20290,Ryan Crowe,19,Consumer,08/01/2020
+RC-19825,Ryan Crowe,63,Consumer,28/11/2022
+AH-10210,Dave Kipp,49,Consumer,09/11/2020
+CB-12535,Greg Guthrie,51,Corporate,20/11/2020
+CA-12310,Steven Cartwright,50,Consumer,29/06/2021
+KH-16690,Steven Cartwright,27,Consumer,11/04/2020
+BB-10990,Steven Cartwright,38,Consumer,21/03/2022
+AG-10495,Steven Cartwright,40,Consumer,23/08/2021
+JO-15280,Steven Cartwright,39,Consumer,17/03/2023
+AH-10195,Alan Dominguez,23,Home Office,10/08/2020
+NZ-18565,Philip Fox,31,Consumer,13/03/2021
+KL-16555,Troy Staebel,43,Consumer,25/10/2021
+AS-10225,Troy Staebel,40,Consumer,06/10/2023
+CR-12625,Lindsay Shagiari,59,Home Office,18/01/2023
+SH-20395,Lindsay Shagiari,38,Home Office,17/12/2022
+BP-11185,Dorothy Wardle,47,Corporate,22/03/2023
+TS-21205,Dorothy Wardle,39,Corporate,07/08/2023
+AG-10525,Dorothy Wardle,25,Corporate,20/10/2023
+SP-20860,Lena Creighton,31,Consumer,28/10/2022
+NM-18445,Lena Creighton,20,Consumer,23/06/2023
+FA-14230,Lena Creighton,29,Consumer,13/06/2022
+GK-14620,Lena Creighton,44,Consumer,14/10/2022
+DJ-13510,Lena Creighton,32,Consumer,05/08/2023
+PO-18850,Lena Creighton,19,Consumer,10/12/2023
+JL-15850,Lena Creighton,35,Consumer,06/07/2023
+DB-13615,Jonathan Doherty,57,Corporate,23/09/2021
+AC-10420,Sally Hughsby,32,Corporate,05/04/2020
+CC-12550,Sally Hughsby,28,Corporate,04/11/2020
+TD-20995,Sally Hughsby,32,Corporate,28/11/2023
+AB-10060,Sandra Glassco,25,Consumer,11/10/2021
+JL-15505,Helen Andreada,28,Consumer,04/08/2021
+VB-21745,Maureen Gastineau,48,Home Office,27/12/2020
+KW-16435,Justin Ellison,32,Corporate,16/07/2023
+JD-16060,Justin Ellison,34,Corporate,12/02/2022
+MK-17905,Justin Ellison,34,Corporate,22/11/2023
+GT-14755,Justin Ellison,43,Corporate,26/01/2020
+AG-10900,Tamara Willingham,39,Home Office,03/10/2022
+MM-18280,Tamara Willingham,44,Home Office,03/05/2023
+AR-10405,Stephanie Phelps,38,Corporate,10/06/2021
+RA-19915,Stephanie Phelps,47,Corporate,23/09/2021
+AS-10285,Stephanie Phelps,27,Corporate,26/10/2020
+LA-16780,Neil Knudson,37,Home Office,21/05/2022
+DO-13435,Dave Brooks,30,Consumer,21/09/2022
+DK-13225,Nora Paige,34,Consumer,20/02/2020
+NG-18430,Nora Paige,30,Consumer,10/03/2022
+MV-18190,Ted Trevino,56,Consumer,07/05/2020
+JG-15115,Eric Murdock,29,Consumer,06/03/2021
+BP-11095,Ruben Dartt,19,Consumer,11/12/2022
+VP-21730,Max Jones,31,Consumer,12/05/2020
+SS-20140,Becky Martin,50,Consumer,24/03/2020
+AG-10675,Becky Martin,36,Consumer,02/05/2023
+LF-17185,Becky Martin,42,Consumer,03/08/2022
+RF-19840,Becky Martin,33,Consumer,16/03/2022
+KH-16510,Becky Martin,36,Consumer,06/08/2020
+KC-16675,Becky Martin,32,Consumer,18/07/2023
+CJ-12010,Becky Martin,40,Consumer,02/02/2021
+PB-19150,Chad Sievert,28,Consumer,09/09/2022
+MP-17965,Chad Sievert,36,Consumer,03/06/2020
+NF-18385,Chad Sievert,36,Consumer,11/04/2020
+SD-20485,Jennifer Braxton,52,Corporate,19/12/2020
+KH-16630,Jennifer Braxton,30,Corporate,19/03/2020
+RB-19795,Shirley Jackson,58,Consumer,02/01/2023
+MK-18160,Joel Eaton,27,Consumer,05/10/2020
+PO-19180,Joel Eaton,59,Consumer,11/09/2022
+BB-11545,Jim Kriz,35,Home Office,31/10/2020
+TB-21595,David Kendrick,37,Corporate,22/07/2021
+RB-19360,David Kendrick,32,Corporate,19/09/2020
+EB-13705,Robert Marley,46,Home Office,23/07/2023
+SC-20095,Robert Marley,29,Home Office,09/08/2021
+TN-21040,Robert Marley,41,Home Office,15/08/2023
+JS-15940,Sally Knutson,30,Consumer,20/12/2023
+MH-17785,Frank Merwin,54,Home Office,18/12/2020
+JP-15520,Alice McCarthy,28,Corporate,22/06/2020
+JE-15475,Alice McCarthy,41,Corporate,13/11/2021
+JG-15805,Mark Packer,36,Home Office,10/06/2022
+XP-21865,Mark Packer,34,Home Office,21/07/2023
+EM-14065,Mark Packer,32,Home Office,23/04/2021
+MT-18070,Mark Packer,33,Home Office,21/08/2020
+SA-20830,Mark Packer,38,Home Office,11/05/2023
+CW-11905,Mary Zewe,47,Corporate,23/02/2022
+AJ-10960,Cassandra Brandow,35,Consumer,20/05/2023
+SS-20590,Cassandra Brandow,45,Consumer,10/08/2021
+RO-19780,Valerie Mitchum,32,Home Office,23/06/2022
+MD-17350,Fred Hopkins,32,Corporate,02/03/2020
+MY-17380,Fred Hopkins,30,Corporate,06/07/2023
+CM-12385,Maria Bertelson,21,Consumer,04/11/2023
+LS-17245,Bruce Stewart,34,Consumer,18/02/2023
+BN-11515,Bruce Stewart,16,Consumer,15/10/2020
+DB-13210,Logan Currie,76,Consumer,22/06/2021
+MC-17605,Heather Kirkland,62,Corporate,01/07/2021
+BD-11605,Laurel Elliston,63,Consumer,20/03/2022
+PH-18790,Joseph Holt,19,Consumer,04/11/2022
+MG-18145,Joseph Holt,46,Consumer,12/04/2021
+KB-16240,Joseph Holt,48,Consumer,01/08/2021
+JC-15340,Joseph Holt,80,Consumer,23/04/2020
+RL-19615,Joseph Holt,18,Consumer,08/03/2020
+AA-10375,Michael Stewart,20,Corporate,15/12/2023
+EP-13915,Victoria Wilson,86,Corporate,28/05/2020
+DK-12985,Victoria Wilson,49,Corporate,17/04/2020
+BD-11500,Victoria Wilson,48,Corporate,10/12/2021
+LM-17065,Victoria Wilson,46,Corporate,13/08/2023
+AS-10135,Victoria Wilson,79,Corporate,12/05/2023
+BD-11320,Jonathan Howell,83,Consumer,21/04/2022
+GT-14710,Jonathan Howell,66,Consumer,10/05/2022
+AJ-10945,Joni Blumstein,59,Consumer,21/10/2021
+OT-18730,Joni Blumstein,39,Consumer,10/08/2020
+LP-17080,Joni Blumstein,95,Consumer,08/02/2022
+CA-12775,Joni Blumstein,43,Consumer,28/03/2020
+JF-15490,Joni Blumstein,93,Consumer,14/07/2022
+FP-14320,Joni Blumstein,40,Consumer,02/04/2020
+EB-13840,David Smith,78,Corporate,01/08/2022
+JF-15415,David Smith,25,Corporate,31/12/2020
+SF-20200,David Smith,76,Corporate,22/04/2023
+TG-21640,Valerie Dominguez,20,Consumer,27/06/2020
+CS-11950,Valerie Dominguez,15,Consumer,16/07/2022
+CC-12145,Erin Ashbrook,26,Corporate,22/10/2021
+DV-13465,Christopher Schild,84,Home Office,03/04/2022
+BD-11725,Christopher Schild,67,Home Office,27/04/2021
+ZC-21910,Christopher Schild,78,Home Office,14/05/2022
+MS-17830,Christopher Schild,34,Home Office,18/12/2022
+LR-16915,Christopher Schild,29,Home Office,02/08/2023
+TP-21130,David Bremer,91,Corporate,08/06/2023
+CK-12205,Ken Lonsdale,95,Consumer,09/08/2020
+AS-10240,Ken Lonsdale,55,Consumer,23/12/2021
+AR-10510,Ken Lonsdale,14,Consumer,23/03/2020
+NB-18655,Ken Lonsdale,92,Consumer,23/04/2020
+GD-14590,Ken Lonsdale,65,Consumer,05/05/2022
+CK-12595,Ken Lonsdale,84,Consumer,01/12/2021
+NG-18355,Ken Lonsdale,77,Consumer,13/07/2022
+CA-12265,Dianna Wilson,53,Home Office,21/07/2023
+SF-20965,Dianna Wilson,28,Home Office,05/09/2020
+MO-17800,Dianna Wilson,23,Home Office,13/01/2022
+AT-10735,Dianna Wilson,32,Home Office,04/12/2022
+FM-14380,Dianna Wilson,37,Home Office,16/12/2023
+DJ-13420,Logan Haushalter,89,Consumer,28/07/2023
+ME-17725,Kelly Collister,80,Consumer,01/05/2020
+JD-16150,Kelly Collister,27,Consumer,12/09/2020
+JL-15835,Delfina Latchford,78,Consumer,28/08/2020
+SC-20305,Delfina Latchford,86,Consumer,08/12/2020
+CC-12430,Dan Reichenbach,46,Corporate,23/09/2023
+AR-10825,Dan Reichenbach,59,Corporate,12/12/2020
+SR-20740,Dan Reichenbach,12,Corporate,29/03/2021
+CR-12730,Dan Reichenbach,79,Corporate,29/03/2023
+EH-14125,Craig Carreira,79,Consumer,26/12/2021
+SP-20545,Craig Carreira,26,Consumer,20/01/2020
+TH-21235,Craig Carreira,63,Consumer,16/06/2021
+RP-19390,Dorris liebe,52,Corporate,04/09/2020
+RB-19570,Sean Braxton,32,Corporate,27/01/2020
+CD-11980,Sean Braxton,64,Corporate,17/02/2021
+DJ-13630,Roy Collins,37,Consumer,19/03/2022
+GT-14635,Alan Hwang,17,Consumer,22/05/2022
+MC-17845,Claudia Bergmann,40,Corporate,26/03/2023
+RA-19285,Paul Gonzalez,78,Consumer,14/07/2021
+NP-18325,Christine Abelman,34,Corporate,20/12/2021
+AB-10165,Christine Abelman,52,Corporate,22/01/2021
+JO-15550,Kristen Hastings,94,Corporate,29/05/2022
+JK-15370,Helen Andreada,11,Consumer,14/12/2021
+BN-11470,Helen Andreada,96,Consumer,03/08/2023
+DP-13165,Helen Andreada,18,Consumer,19/12/2020
+TH-21550,Barry Blumstein,37,Corporate,24/09/2022
+AP-10915,Barry Blumstein,78,Corporate,16/02/2020
+RS-19765,Andrew Gjertsen,16,Corporate,08/05/2022
+SV-20365,Andrew Gjertsen,93,Corporate,19/11/2020
+CK-12325,Andrew Gjertsen,74,Corporate,05/05/2023
+RD-19810,Andrew Gjertsen,68,Corporate,26/03/2020
+MR-17545,Steven Cartwright,32,Consumer,26/04/2020
+SC-20695,Steven Cartwright,43,Consumer,20/11/2022
+JF-15355,Jas O'Carroll,52,Consumer,16/07/2021
+EG-13900,Tracy Blumstein,63,Consumer,29/07/2020
+DS-13030,Tracy Blumstein,33,Consumer,12/12/2021
+PO-19195,Tracy Blumstein,86,Consumer,27/02/2022
+SS-20875,Alan Haines,85,Corporate,15/05/2023
+PB-19105,Alan Haines,73,Corporate,17/09/2021
+RF-19735,Alan Haines,21,Corporate,22/07/2022
+YC-21895,Nick Zandusky,93,Home Office,06/10/2020
+DC-13285,Nick Zandusky,19,Home Office,23/12/2020
+CP-12340,Nick Zandusky,10,Home Office,15/09/2021
+BF-11020,Nick Zandusky,11,Home Office,09/07/2020
+LH-17020,Kelly Lampkin,48,Corporate,19/07/2023
+CS-12250,Kelly Lampkin,73,Corporate,03/08/2022
+AJ-10795,Kelly Lampkin,66,Corporate,24/12/2021
+BV-11245,Kelly Lampkin,79,Corporate,28/02/2023
+DL-12865,Kelly Lampkin,62,Corporate,20/09/2020
+BM-11785,Jonathan Doherty,17,Corporate,16/10/2022
+LT-17110,Jonathan Doherty,32,Corporate,27/12/2023
+JK-15730,Jonathan Doherty,85,Corporate,14/02/2021
+ES-14020,Jonathan Doherty,31,Corporate,22/02/2023
+RH-19495,Jonathan Doherty,31,Corporate,19/03/2023
+CD-11920,Jonathan Howell,38,Consumer,30/08/2022
+HW-14935,Alan Schoenberger,90,Corporate,01/03/2021
+MC-18130,Ken Brennan,65,Corporate,18/03/2020
+GM-14440,Corey Roper,63,Home Office,13/05/2022
+PJ-19015,Corey Roper,61,Home Office,26/03/2020
+BW-11110,Shahid Hopkins,26,Consumer,30/03/2022
+TR-21325,Ben Peterman,17,Corporate,10/04/2023
+PG-18820,Ben Peterman,56,Corporate,07/08/2023
+JL-15175,Ben Peterman,12,Corporate,10/12/2022
+BM-11650,Ben Peterman,24,Corporate,12/04/2021
+EM-14095,Thomas Seio,13,Corporate,31/10/2020
+AF-10885,Andy Gerbode,12,Corporate,22/12/2020
+GA-14725,Andy Gerbode,72,Corporate,22/10/2022
+CK-12760,Sung Pak,54,Corporate,04/05/2021
+DP-13105,Nathan Mautz,45,Home Office,26/10/2022
+BK-11260,Nathan Mautz,66,Home Office,15/02/2021
+SJ-20125,Nathan Mautz,27,Home Office,24/05/2021
+CM-12445,Nathan Mautz,36,Home Office,24/03/2023
+AJ-10780,Nathan Mautz,15,Home Office,14/08/2023
+LS-16945,Frank Atkinson,89,Corporate,02/06/2021
+GP-14740,Grace Kelly,13,Corporate,19/06/2021
+PK-18910,Grace Kelly,91,Corporate,08/02/2020
+SM-20005,Don Jones,16,Corporate,16/04/2020
+AG-10765,Patrick O'Brill,63,Consumer,02/11/2023
+PM-19135,Patrick O'Brill,52,Consumer,08/02/2022
+LL-16840,Patrick O'Brill,37,Consumer,17/06/2023
+JS-15595,Patrick O'Brill,78,Consumer,18/11/2020
+EL-13735,Patrick O'Brill,24,Consumer,26/04/2023
+PC-18745,John Lucas,14,Consumer,30/08/2021
+HL-15040,John Lucas,84,Consumer,18/10/2022
+MS-17365,John Lucas,20,Consumer,04/07/2022
+GB-14530,Doug Bickford,67,Consumer,13/04/2021
+JR-16210,Doug Bickford,32,Consumer,20/04/2023
+BE-11335,Doug Bickford,39,Consumer,25/08/2022
+SC-20050,Alyssa Crouse,68,Corporate,14/03/2021
+RW-19630,Alyssa Crouse,17,Corporate,29/03/2023
+SE-20110,Ken Lonsdale,76,Consumer,19/05/2023
+AH-10075,Jonathan Doherty,84,Corporate,01/05/2023
+JM-15535,Jonathan Doherty,75,Corporate,18/05/2023
+JJ-15760,Jonathan Doherty,22,Corporate,19/05/2023
+RK-19300,Jonathan Doherty,90,Corporate,12/07/2020
+CG-12040,Chad Sievert,14,Consumer,31/05/2023
+RP-19270,Clay Cheatham,78,Consumer,08/11/2023
+KC-16255,Tamara Dahlen,58,Consumer,30/01/2023
+KH-16360,Tamara Dahlen,99,Consumer,22/10/2020
+GH-14665,Tamara Dahlen,24,Consumer,12/05/2021
+SW-20275,Adam Bellavance,88,Home Office,17/10/2021
+JA-15970,Adam Bellavance,92,Home Office,27/03/2023
+DL-12925,Adam Bellavance,99,Home Office,17/02/2020
+LW-16990,Adam Bellavance,51,Home Office,16/06/2021
+TB-21190,Adam Bellavance,23,Home Office,28/06/2023
+BS-11800,Jeremy Lonsdale,13,Consumer,04/11/2022
+RW-19690,Jeremy Lonsdale,22,Consumer,11/08/2022
+TZ-21580,Jeremy Lonsdale,89,Consumer,04/10/2020
+AS-10630,Jeremy Lonsdale,20,Consumer,31/10/2023
+TS-21340,Heather Kirkland,72,Corporate,13/07/2022
+SL-20155,Victoria Brennan,17,Corporate,21/04/2023
+MW-18235,Victoria Brennan,90,Corporate,17/02/2023
+RD-19585,Katrina Willman,99,Consumer,15/01/2023
+RA-19945,Katrina Willman,39,Consumer,13/07/2023
+MT-17815,Katrina Willman,37,Consumer,22/10/2023
+VG-21790,Katrina Willman,46,Consumer,11/03/2021
+JS-15880,Julia Dunbar,65,Consumer,10/02/2022
+KM-16225,Michael Kennedy,60,Corporate,25/07/2021
+HR-14770,Michael Kennedy,93,Corporate,14/01/2020
+DE-13255,Michael Kennedy,72,Corporate,11/02/2022
+AG-10390,Michael Kennedy,36,Corporate,24/06/2023
+JJ-15445,Guy Thornton,52,Consumer,21/05/2020
+JH-15430,Guy Thornton,72,Consumer,04/08/2021
+RD-19660,Arthur Gainer,28,Consumer,20/09/2020
+MO-17500,Arthur Gainer,48,Consumer,02/03/2021
+NS-18640,Arthur Gainer,85,Consumer,08/10/2022
+DG-13300,Arthur Gainer,22,Consumer,22/11/2020
+NF-18595,Muhammed MacIntyre,30,Corporate,20/09/2020
+MG-17650,Allen Rosenblatt,46,Corporate,22/12/2021
+TS-21160,Russell Applegate,82,Consumer,24/04/2020
+BD-11620,Russell Applegate,73,Consumer,01/11/2023
+CM-12160,Russell Applegate,18,Consumer,19/09/2021
+SN-20560,Alejandro Savely,90,Corporate,15/10/2021
+EH-14005,Alejandro Savely,34,Corporate,19/12/2022
+FO-14305,Laura Armstrong,10,Corporate,24/02/2021
+MS-17710,Denny Ordway,79,Consumer,02/12/2020
+CC-12100,Denny Ordway,83,Consumer,10/11/2020
+DW-13540,Dean Katz,20,Corporate,22/09/2022
+BT-11395,Dean Katz,25,Corporate,08/12/2020
+CY-12745,Nathan Gelder,26,Consumer,09/07/2023
+BT-11485,Mike Vittorini,18,Consumer,24/06/2021
+PS-19045,Mike Vittorini,17,Consumer,16/07/2022
+PV-18985,Jack Garza,11,Consumer,02/09/2023
+NM-18520,Jack Garza,21,Consumer,05/01/2023
+DL-13495,Bart Pistole,86,Corporate,06/04/2020
+CS-12355,Victor Preis,75,Home Office,15/08/2023
+FH-14275,Saphhira Shifley,78,Corporate,15/06/2020
+AA-10315,Saphhira Shifley,87,Corporate,21/08/2021
+LT-16765,Harold Pawlan,28,Home Office,26/08/2020
+AP-10720,Anna Gayman,59,Consumer,05/08/2023
+PM-18940,Anna Gayman,13,Consumer,19/08/2021
+AT-10435,Anna Gayman,55,Consumer,25/12/2020
+CA-12055,Anna Gayman,50,Consumer,18/07/2020
+HR-14830,Luke Foster,54,Consumer,01/01/2022
+BT-11530,Stephanie Phelps,13,Corporate,15/09/2023
+LH-16750,Roy Französisch,79,Consumer,09/02/2023
+SW-20755,Keith Herrera,65,Consumer,05/08/2021
+SP-20620,Keith Herrera,51,Consumer,23/12/2023
+BF-11170,Keith Herrera,18,Consumer,03/11/2020
+KT-16480,Keith Herrera,21,Consumer,18/12/2022
+BG-11695,Keith Herrera,37,Consumer,23/02/2022
+GM-14680,Keith Herrera,83,Consumer,23/02/2022
+EJ-14155,Keith Herrera,96,Consumer,12/03/2022
+NP-18700,Keith Herrera,65,Consumer,23/10/2020
+MH-18115,Keith Herrera,80,Consumer,04/05/2022
+JR-15700,Kimberly Carter,75,Corporate,11/07/2022
+SM-20950,Kimberly Carter,87,Corporate,28/11/2023
+CC-12220,Caroline Jumper,86,Consumer,31/10/2023
+PF-19225,Philip Brown,36,Consumer,27/01/2021
+DC-12850,Victoria Brennan,78,Corporate,04/11/2020
+BD-11770,Sung Pak,62,Corporate,12/09/2023
+GM-14500,Sung Pak,89,Corporate,26/03/2020
+TB-21355,Joel Eaton,56,Consumer,10/11/2022
+JH-16180,Michael Paige,35,Corporate,23/04/2023
+EB-13975,Michael Paige,33,Corporate,12/07/2022
+QJ-19255,Natalie Fritzler,58,Consumer,26/10/2020
+TC-21535,Janet Molinari,68,Corporate,13/02/2023
+CS-12460,Janet Molinari,38,Corporate,06/05/2022
+HG-14965,Shirley Daniels,31,Home Office,29/04/2021
+LW-16825,Ken Heidel,90,Corporate,11/03/2020
+MC-17575,Ross Baird,28,Home Office,11/01/2020
+LP-17095,Ross Baird,11,Home Office,07/01/2023
+EB-14170,Ross Baird,78,Home Office,23/05/2021
+GZ-14545,Ross Baird,23,Home Office,05/04/2023
+CP-12085,Dave Brooks,25,Consumer,26/09/2021
+FG-14260,Mike Kennedy,59,Consumer,03/10/2020
+LD-17005,Mike Kennedy,17,Consumer,24/02/2022
+AB-10255,Philisse Overcash,24,Home Office,16/08/2021
+MN-17935,Philisse Overcash,76,Home Office,03/09/2021
+JR-15670,Brenda Bowman,37,Corporate,13/01/2021
+JF-15190,Cynthia Voltz,16,Corporate,04/04/2020
+CM-12115,Pete Kriz,20,Consumer,07/10/2021
+AS-10045,Pete Kriz,23,Consumer,10/08/2023
+BP-11290,Pete Kriz,95,Consumer,09/02/2023
+ND-18370,Pete Kriz,40,Consumer,09/08/2022
+LB-16735,Pete Kriz,71,Consumer,25/02/2021
+KT-16465,Pete Kriz,54,Consumer,18/10/2020
+HM-14860,Troy Blackwell,89,Consumer,12/03/2022
+AB-10600,Raymond Buch,58,Consumer,13/01/2023
+SZ-20035,Raymond Buch,12,Consumer,28/01/2020
+MG-17890,Raymond Buch,70,Consumer,08/01/2023
+JK-16120,Raymond Buch,11,Consumer,25/10/2020
+PP-18955,Raymond Buch,74,Consumer,29/10/2021
+YS-21880,Raymond Buch,64,Consumer,08/10/2022
+KM-16375,Ed Braxton,48,Corporate,09/09/2020
+AB-10105,Ed Braxton,81,Corporate,05/11/2022
+HA-14905,Ken Heidel,15,Corporate,24/01/2022
+BT-11305,Sanjit Chand,14,Consumer,08/08/2023
+SV-20815,Natalie Fritzler,21,Consumer,18/07/2021
+RW-19540,Natalie Fritzler,84,Consumer,14/05/2020
+DK-12835,Joseph Holt,52,Consumer,14/06/2020
+ST-20530,Joseph Holt,47,Consumer,20/12/2023
+MM-17920,Joseph Holt,96,Consumer,25/12/2021
+PW-19030,Tanja Norvell,93,Home Office,05/01/2021
+SC-20440,Tanja Norvell,16,Home Office,18/10/2021
+TS-21085,Tanja Norvell,56,Home Office,24/10/2021
+MC-17425,Tanja Norvell,76,Home Office,12/11/2022
+ME-17320,Tanja Norvell,20,Home Office,17/03/2022
+NH-18610,Joni Sundaresam,70,Home Office,03/04/2022
+MB-18085,David Smith,47,Corporate,06/08/2023
+KD-16495,Craig Carreira,13,Consumer,09/11/2020
+KN-16390,Maya Herman,86,Corporate,14/05/2021
+NP-18685,Jeremy Pistek,91,Consumer,22/09/2021
+CS-12505,Jeremy Pistek,97,Consumer,22/01/2023
+MS-17770,Jeremy Pistek,20,Consumer,18/12/2023
+CM-12655,Jeremy Pistek,11,Consumer,09/09/2021
+Co-12640,Jeremy Pistek,28,Consumer,05/02/2022
+TS-21370,Jeremy Pistek,32,Consumer,15/10/2022
+JW-15220,Kristen Hastings,82,Corporate,27/07/2021
+JD-15790,Jeremy Ellison,39,Consumer,22/01/2020
+PC-19000,John Grady,71,Corporate,18/05/2022
+AR-10540,John Grady,13,Corporate,02/08/2021
+AI-10855,Xylona Preis,34,Consumer,15/05/2021
+TB-21400,Erin Mull,76,Consumer,03/03/2021
+PL-18925,Erin Mull,30,Consumer,22/07/2023
+GH-14425,Michelle Tran,69,Home Office,29/04/2023
+MP-18175,Michelle Tran,22,Home Office,20/05/2020
+JM-15655,Michelle Tran,60,Home Office,13/06/2021
+CL-11890,Sue Ann Reed,66,Consumer,12/12/2023
+DB-13270,Carl Weiss,57,Home Office,03/12/2023
+IG-15085,Carl Weiss,60,Home Office,14/10/2022
+BO-11425,Carl Weiss,59,Home Office,23/04/2021
+AB-10150,Astrea Jones,54,Consumer,03/08/2023
+JW-16075,Astrea Jones,90,Consumer,12/10/2020
+EB-13750,Sonia Sunley,14,Consumer,12/04/2023
+SG-20470,Rose O'Brian,34,Consumer,18/01/2021
+CM-12190,Maribeth Dona,85,Consumer,05/01/2023
+AW-10840,Sanjit Chand,83,Consumer,03/09/2022
+MC-18100,Sanjit Chand,12,Consumer,25/09/2021
+TT-21460,Sanjit Chand,95,Consumer,23/07/2021
+VG-21805,Sanjit Chand,41,Consumer,25/07/2021
+MY-18295,Maribeth Yedwab,38,Corporate,23/08/2020
+RD-19480,Maribeth Yedwab,68,Corporate,26/08/2020
+DP-13390,Maribeth Yedwab,44,Corporate,13/05/2021
+ML-17395,Maribeth Yedwab,55,Corporate,27/02/2021
+JC-15385,Maribeth Yedwab,33,Corporate,18/09/2023
+JG-15160,Ed Braxton,20,Corporate,22/09/2021
+MC-17275,Christopher Martinez,35,Consumer,06/12/2022
+NW-18400,Christopher Martinez,36,Consumer,17/10/2022
+TB-21280,Christopher Martinez,70,Consumer,15/03/2023
+BS-11380,Christopher Martinez,17,Consumer,16/04/2022
+HH-15010,Lynn Smith,31,Consumer,04/12/2021
+CD-12280,Lynn Smith,48,Consumer,30/09/2020
+TH-21100,Luke Foster,28,Consumer,07/09/2020
+MM-18055,Bradley Nguyen,97,Consumer,06/03/2022
+NS-18505,Bradley Nguyen,81,Consumer,25/05/2023
+RB-19645,Alan Dominguez,37,Home Office,18/10/2020
+SW-20455,Alan Dominguez,85,Home Office,26/12/2021
+EB-13930,Alan Dominguez,78,Home Office,17/08/2022
+PS-18760,Alan Dominguez,13,Home Office,29/07/2021
+HF-14995,Dean Braden,53,Consumer,03/06/2023
+HZ-14950,Dean Braden,41,Consumer,20/08/2020
+CD-12790,Dean Braden,91,Consumer,03/04/2023
+JK-15205,Matt Connell,20,Corporate,05/04/2020
+FM-14215,Logan Haushalter,98,Consumer,18/07/2023
+ED-13885,Logan Haushalter,44,Consumer,22/10/2020
+DA-13450,Brian Dahlen,66,Consumer,08/07/2021
+JW-15955,Patricia Hirasaki,58,Home Office,24/09/2021
+RM-19375,Patricia Hirasaki,97,Home Office,02/05/2020
+ML-17755,Mike Gockenbach,13,Consumer,01/04/2022
+CC-12685,Mike Gockenbach,48,Consumer,05/12/2021
+JE-15610,Mike Gockenbach,47,Consumer,16/01/2020
+RP-19855,Karen Bern,93,Corporate,21/04/2023
+TB-21175,Jasper Cacioppo,11,Consumer,01/02/2021
+BE-11455,Rob Lucas,68,Consumer,21/11/2021
+JF-15565,Rob Lucas,87,Consumer,07/06/2021
+PB-19210,Allen Armold,22,Consumer,26/07/2021
+BT-11680,Emily Phan,89,Consumer,19/04/2020
+JL-15235,Mark Packer,57,Home Office,19/06/2021
+CH-12070,Darren Koutras,91,Consumer,24/07/2021
+ND-18460,Darren Koutras,84,Consumer,02/01/2023
+BF-10975,Bradley Drucker,56,Consumer,19/10/2022
+KH-16330,Erin Smith,26,Corporate,20/05/2023
+GW-14605,Liz MacKendrick,56,Consumer,23/12/2020
+NC-18625,Paul Gonzalez,62,Consumer,13/06/2023
+ME-18010,Paul Gonzalez,33,Consumer,12/06/2020
+BP-11230,Paul Gonzalez,89,Consumer,04/06/2020
+JC-15775,Adrian Shami,99,Home Office,01/01/2022
+AS-10090,Adrian Shami,25,Home Office,10/07/2023
+AC-10450,Dean Katz,96,Corporate,25/06/2023
+MD-17860,Dean Katz,35,Corporate,05/02/2021
+DB-13660,Dean Katz,16,Corporate,23/10/2021
+EH-13990,Bill Donatelli,81,Consumer,19/12/2023
+EH-13765,Ryan Crowe,72,Consumer,24/04/2022
+SC-20230,Greg Tran,31,Consumer,06/08/2020
+JE-15715,Dean Katz,16,Corporate,15/04/2023
+AC-10615,Ashley Jarboe,89,Consumer,25/06/2022
+JD-16015,Olvera Toch,84,Consumer,02/06/2020
+CB-12415,Olvera Toch,40,Consumer,01/07/2023
+JS-16030,Olvera Toch,17,Consumer,28/04/2021
+LW-17215,Liz Pelletier,50,Consumer,30/09/2023
+SC-20800,Liz Pelletier,69,Consumer,17/11/2021
+AM-10705,Cynthia Arntzen,17,Consumer,11/01/2022
+RH-19510,Cynthia Arntzen,20,Consumer,30/07/2020
+CT-11995,Jeremy Farry,34,Consumer,01/03/2020
+MC-17590,Jeremy Farry,51,Consumer,22/07/2021
+CC-12610,Frank Preis,54,Consumer,11/01/2020
+KA-16525,Ellis Ballard,19,Corporate,08/03/2023
+TC-20980,Ellis Ballard,99,Corporate,21/12/2022
+BF-11080,Ellis Ballard,22,Corporate,19/05/2021
+MM-17260,Ellis Ballard,91,Corporate,18/12/2020
+AH-10120,Jennifer Ferguson,65,Consumer,10/05/2020
+BW-11200,Jennifer Ferguson,47,Consumer,11/06/2020
+SW-20245,Jennifer Ferguson,91,Consumer,22/11/2022
+BS-11665,Jennifer Ferguson,64,Consumer,11/12/2021
+RF-19345,Sarah Foster,91,Consumer,07/01/2022
+WB-21850,Trudy Glocke,32,Consumer,23/03/2023
+TB-21625,Trudy Glocke,15,Consumer,11/02/2023
+AF-10870,Trudy Glocke,22,Consumer,08/02/2023
+RB-19435,Carlos Soltero,37,Consumer,07/06/2023
+KF-16285,Carlos Soltero,83,Consumer,23/05/2021
+JH-15820,Charles Crestani,89,Consumer,17/07/2022
+IL-15100,Dianna Vittorini,33,Consumer,18/11/2023
+PB-18805,Dianna Vittorini,13,Consumer,12/04/2021
+RH-19600,Dianna Vittorini,71,Consumer,12/12/2023
+AW-10930,Dianna Vittorini,10,Consumer,27/03/2021
+ML-17410,Dianna Vittorini,49,Consumer,17/03/2021
+DB-13555,Bruce Degenhardt,92,Consumer,20/01/2020
+MH-17620,Bruce Degenhardt,53,Consumer,19/04/2023
+DK-13375,Zuschuss Carroll,63,Consumer,19/10/2023
+BT-11440,Zuschuss Carroll,46,Consumer,20/06/2020
+DB-13405,Zuschuss Carroll,42,Consumer,13/08/2023
+TG-21310,Zuschuss Carroll,73,Consumer,25/01/2020
+BF-11005,Melanie Seite,75,Consumer,28/10/2020
+JM-16195,Melanie Seite,49,Consumer,02/07/2022
+MZ-17335,Lena Radford,96,Consumer,26/01/2023
+MW-18220,Lena Radford,52,Consumer,28/02/2020
+MV-17485,Lena Radford,15,Consumer,30/01/2022
+SM-20320,Lena Radford,91,Consumer,14/01/2020
+TP-21415,Theone Pippenger,22,Consumer,05/03/2023
+JK-15625,Chloris Kastensmidt,62,Consumer,27/09/2022
+PJ-18835,Chloris Kastensmidt,41,Consumer,26/06/2023
+RS-19420,Chloris Kastensmidt,61,Consumer,24/07/2020
+SV-20935,Alan Shonely,71,Consumer,15/02/2023
+BC-11125,Alan Shonely,91,Consumer,10/02/2022
+EM-13825,Alan Shonely,94,Consumer,22/07/2023
+BM-11575,Alan Shonely,39,Consumer,10/11/2020
+KN-16705,Alan Shonely,15,Consumer,02/04/2023
+KW-16570,Andrew Roberts,96,Consumer,30/07/2021
+SC-20260,Andrew Roberts,12,Consumer,03/05/2020
+CV-12295,Andrew Roberts,23,Consumer,07/03/2022
+SG-20605,Nona Balk,94,Corporate,07/08/2022
+TM-21010,Nona Balk,71,Corporate,10/11/2020
+EM-13810,Giulietta Dortch,74,Corporate,24/05/2023
+ML-18040,Giulietta Dortch,52,Corporate,20/04/2021
+CR-12580,Clytie Kelty,39,Consumer,06/03/2023
+AZ-10750,Clytie Kelty,72,Consumer,04/07/2022
+PW-19240,Nat Gilpin,55,Corporate,11/10/2020
+SC-20380,Nat Gilpin,29,Corporate,19/09/2020
+CM-11935,Nat Gilpin,38,Corporate,15/11/2022
+GM-14695,Nat Gilpin,44,Corporate,11/02/2023
+TB-21250,Nat Gilpin,58,Corporate,22/09/2022
+JM-15865,Christina Anderson,77,Consumer,11/07/2021
+SC-20575,Sylvia Foulston,56,Corporate,09/10/2021
+LS-17200,Sylvia Foulston,79,Corporate,18/12/2023
+RR-19315,Sylvia Foulston,97,Corporate,22/04/2021
+DB-12910,Sylvia Foulston,78,Corporate,02/09/2021
+TT-21220,Meg O'Connel,91,Home Office,28/04/2023
+LO-17170,Annie Thurman,35,Consumer,27/12/2023
+KD-16615,Logan Currie,43,Consumer,24/03/2021
+NB-18580,Logan Currie,37,Consumer,04/10/2023
+BD-11635,Fred McMath,63,Consumer,14/03/2022
+CM-12235,Fred McMath,16,Consumer,10/03/2020
+EN-13780,Fred McMath,32,Consumer,14/04/2023
+KN-16450,Brian Dahlen,91,Consumer,15/02/2022
+BO-11350,Brian Dahlen,33,Consumer,07/10/2023
+AG-10300,Denny Joy,57,Corporate,27/07/2023
+MC-17635,Max Engle,43,Consumer,13/10/2020
+TA-21385,Max Engle,26,Consumer,10/05/2021
+JF-15295,Rick Bensley,59,Home Office,31/12/2021
+TT-21265,Rick Bensley,61,Home Office,01/04/2021
+SB-20170,Justin Deggeller,59,Corporate,12/12/2021
+CL-12700,John Lee,66,Consumer,05/12/2022
+HG-15025,John Lee,26,Consumer,12/02/2020
+NL-18310,Sean Christensen,67,Consumer,07/11/2023
+RR-19525,Tamara Willingham,85,Home Office,01/08/2023
+TC-21295,Chuck Clark,76,Home Office,10/09/2023
+SV-20785,Barry Blumstein,57,Corporate,26/07/2022
+BE-11410,Barry Blumstein,77,Corporate,02/01/2021
+SC-20680,Anthony Rawles,66,Corporate,12/08/2023
+DF-13135,Anthony Rawles,49,Corporate,02/07/2023
+FH-14350,Anthony Rawles,36,Corporate,26/11/2023
+MS-17530,Steven Roelle,74,Home Office,19/03/2021
+RH-19555,Allen Rosenblatt,16,Corporate,13/05/2021
+GA-14515,Allen Rosenblatt,27,Corporate,24/03/2020
+JP-16135,Craig Reiter,33,Consumer,12/03/2022
+Dp-13240,Craig Reiter,31,Consumer,04/01/2023
+MO-17950,Craig Reiter,30,Consumer,20/10/2021
+DL-13330,Eugene Hildebrand,94,Home Office,20/03/2021
+MH-18025,Eugene Hildebrand,31,Home Office,26/01/2023
+DR-12940,Cassandra Brandow,49,Consumer,02/06/2023
+DM-13015,Cassandra Brandow,49,Consumer,12/09/2021
+CA-11965,Cassandra Brandow,53,Consumer,24/02/2023
+AC-10660,Cassandra Brandow,33,Consumer,04/09/2020
+DM-13345,Sibella Parks,91,Corporate,08/05/2022
+VF-21715,Roy Collins,26,Consumer,13/10/2022
+CC-12370,Tiffany House,28,Corporate,08/02/2021
+BF-11275,Tiffany House,92,Corporate,20/01/2021
+HG-14845,Tiffany House,59,Corporate,28/09/2020
+BP-11155,Resi Pölking,15,Consumer,06/02/2020
+EM-14140,Meg O'Connel,23,Home Office,06/04/2021
+MA-17995,Meg O'Connel,54,Home Office,10/07/2021
+AY-10555,Meg O'Connel,93,Home Office,24/04/2021
+GB-14575,Tamara Dahlen,65,Consumer,14/04/2023
+JB-16045,Rob Beeghly,13,Consumer,04/08/2022
+MG-17875,Rob Beeghly,71,Consumer,30/07/2020
+SR-20425,Rob Beeghly,41,Consumer,04/04/2023
+JB-16000,Carol Darley,57,Consumer,30/01/2021
+DM-12955,Carol Darley,14,Consumer,07/12/2021
+TC-21475,Carol Darley,77,Consumer,28/03/2022
+SW-20350,Carol Darley,89,Consumer,04/10/2023
+RE-19450,Doug Jacobs,17,Consumer,29/05/2021
+BF-11215,Doug Jacobs,86,Consumer,17/10/2020
+KB-16405,Doug Jacobs,42,Consumer,24/11/2023
+JG-15310,Grant Thornton,29,Corporate,10/01/2022
+EC-14050,Grant Thornton,54,Corporate,30/10/2020
+EB-14110,Michael Chen,96,Consumer,07/10/2020
+JP-15460,Michael Chen,58,Consumer,04/11/2021
+CS-11845,Michael Chen,52,Consumer,06/03/2021
+GH-14410,Ralph Arnett,43,Consumer,10/06/2022
+PT-19090,Naresj Patel,13,Consumer,26/01/2021
+JL-15130,Naresj Patel,43,Consumer,15/10/2020
+AH-10030,Naresj Patel,89,Consumer,04/06/2022
+CC-12475,Alan Barnes,83,Consumer,10/12/2022
+DW-13195,Alan Barnes,80,Consumer,27/10/2023
+SJ-20215,Jesus Ocampo,74,Home Office,13/06/2023
+BG-11740,Jesus Ocampo,42,Home Office,19/08/2023
+LB-16795,Jesus Ocampo,91,Home Office,09/02/2021
+CM-11815,Jesus Ocampo,31,Home Office,16/04/2020
+EH-14185,Jesus Ocampo,38,Home Office,14/07/2020
+TS-21505,Jesus Ocampo,64,Home Office,09/05/2022
+PR-18880,Jesus Ocampo,41,Home Office,03/09/2021
+LC-17050,Dorris liebe,62,Corporate,15/11/2021
+CS-12490,Alejandro Savely,41,Corporate,06/12/2023
+DH-13075,Jay Kimmel,22,Consumer,13/11/2021
+JO-15145,Brad Norvell,56,Corporate,07/10/2020
+AH-10690,Brad Norvell,38,Corporate,05/09/2020
+HJ-14875,Brad Norvell,88,Corporate,06/04/2023
+MH-17455,David Philippe,56,Consumer,02/09/2023
+RD-19930,David Philippe,47,Consumer,06/06/2022
+SC-20020,David Philippe,44,Consumer,27/08/2021
+SU-20665,Tracy Hopkins,82,Home Office,22/01/2021
+FC-14335,Arthur Prichep,31,Consumer,11/10/2022
+RB-19330,Roland Schwarz,69,Corporate,12/10/2023
+NC-18535,Roland Schwarz,62,Corporate,04/08/2023
+DB-12970,Roland Schwarz,54,Corporate,14/11/2020
+MF-17665,Dorris liebe,60,Corporate,07/09/2021
+RM-19750,Seth Vernon,31,Consumer,27/01/2023
+VM-21835,Kelly Collister,17,Consumer,28/03/2022
+EJ-13720,Christine Kargatis,15,Home Office,23/12/2023
+NC-18415,Christine Kargatis,37,Home Office,31/05/2020
+LS-17230,Ross DeVincentis,36,Home Office,07/02/2021
+KE-16420,Michael Paige,27,Corporate,19/03/2021
+DH-13675,Michael Paige,11,Corporate,03/07/2023
+PF-19120,Mathew Reese,83,Home Office,17/08/2023
+VT-21700,Steve Chapman,71,Corporate,20/07/2023
+MG-17695,Jay Fein,20,Consumer,09/04/2020
+SP-20920,Jay Fein,37,Consumer,06/03/2021
+CS-12175,Emily Grady,52,Consumer,29/10/2021
+DK-12895,Emily Grady,75,Consumer,11/03/2023
+KM-16660,Emily Grady,36,Consumer,25/10/2023
+AA-10645,Emily Grady,60,Consumer,16/12/2023
+DD-13570,Emily Grady,88,Consumer,08/07/2023
+AH-10465,Darrin Sayre,29,Home Office,04/11/2021
+TP-21565,Darrin Sayre,41,Home Office,26/02/2022
+EK-13795,Darrin Sayre,38,Home Office,22/05/2020
+CR-12820,Darrin Sayre,69,Home Office,22/03/2021
+SG-20890,Darrin Sayre,33,Home Office,10/04/2020
+AH-10585,Darrin Sayre,64,Home Office,30/10/2023
+NF-18475,Gary Zandusky,19,Consumer,31/12/2021
+BS-11365,Phillina Ober,88,Home Office,26/07/2023
+SH-20635,Phillina Ober,91,Home Office,02/11/2020
+RD-19720,Phillina Ober,84,Home Office,06/12/2020
+AG-10330,Sung Shariari,43,Consumer,20/01/2020
+GR-14560,Sung Shariari,30,Consumer,05/11/2023
+VS-21820,Sung Shariari,16,Consumer,09/01/2023
+TM-21490,Sung Shariari,89,Consumer,09/11/2023
+TS-21430,Maya Herman,53,Corporate,09/08/2021
+DB-13360,Maya Herman,54,Corporate,17/05/2021
+NR-18550,Peter Bühler,41,Consumer,19/08/2021
+CS-11860,Roland Fjeld,80,Consumer,12/05/2021
+MF-18250,Roland Fjeld,37,Consumer,22/11/2023
+LW-17125,Roland Fjeld,87,Consumer,11/09/2023
+AR-10345,Roland Fjeld,50,Consumer,07/01/2021
+KS-16300,Yoseph Carroll,14,Corporate,23/04/2020
+AB-10015,Melanie Seite,17,Consumer,22/05/2020
+LR-17035,Nona Balk,98,Corporate,27/06/2022
+SS-20410,Debra Catini,34,Consumer,12/02/2023
+JM-15580,Debra Catini,83,Consumer,05/10/2023
+JK-15325,Christine Phan,13,Corporate,13/12/2021
+DM-13525,Barry Französisch,46,Corporate,14/04/2020
+ML-18265,Andrew Roberts,25,Consumer,27/06/2022
+MH-17290,Julie Creighton,42,Corporate,27/11/2023
+FC-14245,Lisa Hazard,64,Consumer,24/03/2021
+TH-21115,Chris Selesnick,84,Corporate,07/07/2020
+JK-16090,Chris Selesnick,12,Corporate,04/07/2022
+SB-20185,Chris Selesnick,56,Corporate,29/03/2022
+BG-11035,Chris Selesnick,58,Corporate,22/10/2021
+BW-11065,Chris Selesnick,60,Corporate,01/06/2022
+MG-18205,Anthony Johnson,25,Corporate,23/11/2021
+DO-13645,Laurel Elliston,28,Consumer,02/01/2023
+BP-11050,Benjamin Venier,78,Corporate,16/01/2021
+TS-21655,Benjamin Venier,56,Corporate,26/06/2020
+EM-14200,Benjamin Venier,91,Corporate,09/07/2023
+AO-10810,Benjamin Venier,77,Corporate,05/12/2022
+MH-17440,Benjamin Venier,83,Corporate,09/04/2022
+SS-20515,Benjamin Venier,64,Corporate,19/12/2021
+LD-16855,Dan Lawera,19,Consumer,11/07/2021
+VP-21760,Nick Zandusky,94,Home Office,28/10/2022
+TC-21145,Nick Zandusky,19,Home Office,19/01/2023
+IM-15055,Nick Zandusky,84,Home Office,11/10/2021
+AR-10570,Nick Zandusky,20,Home Office,24/09/2021
+CM-12715,Bryan Mills,19,Consumer,23/08/2021
+FW-14395,Bryan Mills,74,Consumer,05/09/2020
+LC-16960,Bryan Mills,95,Consumer,28/05/2020
+HE-14800,Bryan Mills,34,Consumer,07/09/2020
+BD-11560,Erin Ashbrook,30,Corporate,17/09/2021
+HD-14785,Clay Ludtke,53,Consumer,05/05/2023
+CJ-11875,Liz Thompson,67,Consumer,30/04/2020
+RS-19870,Sue Ann Reed,23,Consumer,04/12/2020
+SC-20845,Sue Ann Reed,25,Consumer,09/03/2022
+RE-19405,Sue Ann Reed,84,Consumer,22/11/2021
+SM-20905,Sue Ann Reed,21,Consumer,27/08/2022
