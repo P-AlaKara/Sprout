@@ -6,7 +6,7 @@ import dash_bootstrap_components as dbc
 from dash_iconify import DashIconify
 import dash_mantine_components as dmc
 
-df = pd.read_csv('inventory_table.csv')
+df = pd.read_csv('data/inventory_table.csv')
 df.drop(columns=['productID'], inplace=True)
 #items_in_each_category - pie chart
 #stock_per_category - bar graph

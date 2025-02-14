@@ -9,7 +9,7 @@ import dash_bootstrap_components as dbc
 from dash_iconify import DashIconify
 import dash_mantine_components as dmc
 
-df = pd.read_csv('modified_sales.csv')
+df = pd.read_csv('data/modified_sales.csv')
 df.drop(columns=['staff_no', 'staff_name', 'customer_name', 'age', 'productID', 
                  'age'], inplace=True)
 top_products_df = df.drop(columns=['product_name', 'customerID', 'date', 'time', 'saleID', 'payment_method', 'county'])

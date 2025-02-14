@@ -23,7 +23,7 @@ app2 = Dash(__name__, external_stylesheets=external_stylesheets)
 goals_dic = dict()
 goals_dic_cust = dict()
 #get goal details - sales
-df_target = pd.read_csv('sales_goals.csv')
+df_target = pd.read_csv('data/sales_goals.csv')
 df_target.drop(columns=['Unnamed: 0'], inplace=True)
 targetscope = df_target._get_value(0,'targetscope')
 salestype = df_target._get_value(0,'salestype')
@@ -31,18 +31,18 @@ targetvalue = df_target._get_value(0,'targetvalue')
 deadline = df_target._get_value(0,'deadline')
 targetval = '1,200'
 #get goal details - customers
-df_target_cust = pd.read_csv('cust_goals.csv')
+df_target_cust = pd.read_csv('data/cust_goals.csv')
 df_target_cust.drop(columns=['Unnamed: 0'], inplace=True)
 targetscope_cust = df_target_cust._get_value(0,'targetscope')
 type_cust = df_target_cust._get_value(0,'type')
 targetvalue_cust = df_target_cust._get_value(0,'targetvalue')
 deadline_cust = df_target_cust._get_value(0,'deadline')
 #prepare sales dataset
-df = pd.read_csv('modified_sales.csv')
+df = pd.read_csv('data/modified_sales.csv')
 df.drop(columns=['saleID', 'time', 'staff_no', 'staff_name', 'customerID',
                 'age', 'productID', 'product_name', 'payment_method', 'discount', 'stock'], inplace=True)
 #prepare customers dataset
-df_cust = pd.read_csv('customers.csv')
+df_cust = pd.read_csv('data/customers.csv')
 df_cust['Date Joined'] = pd.to_datetime(df_cust['Date Joined'], dayfirst=True)
 #create the sales form element
 form = html.Div([

@@ -6,10 +6,10 @@ from dash_iconify import DashIconify
 import dash_mantine_components as dmc
 from datetime import datetime, timedelta
 
-df = pd.read_csv('modified_sales.csv')
+df = pd.read_csv('data/modified_sales.csv')
 df.drop(columns=['saleID', 'time', 'staff_no', 'staff_name',
                  'productID', 'product_name', 'stock', 'discount'], inplace=True)
-df_customers = pd.read_csv('customers.csv')
+df_customers = pd.read_csv('data/customers.csv')
 
 #create grouped bar chart and date range picker
 df['date'] = pd.to_datetime(df['date'], format='%d/%m/%Y')

@@ -7,12 +7,12 @@ import dash_bootstrap_components as dbc
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 df = pd.read_csv(
-    "customers.csv"
+    "data/customers.csv"
 )
-df_sales = pd.read_csv('modified_sales.csv')
+df_sales = pd.read_csv('data/modified_sales.csv')
 df_sales.drop(columns=['staff_no', 'staff_name', 'customer_name', 'age', 'segment', 
                'product_name', 'stock', 'profit', 'discount', 'productID'], inplace=True)
-df_products = pd.read_csv('modified_sales.csv')
+df_products = pd.read_csv('data/modified_sales.csv')
 df_products.drop(columns=['staff_no', 'staff_name', 'customer_name', 'age', 'segment',
                    'profit', 'discount','saleID','date', 'time', 'customerID', 'county',
                    'payment_method', 'quantity'], inplace=True)
@@ -141,7 +141,7 @@ def render_content(tab):
             style={"width": "99vw"}
         )
 
-# Callback to update account details
+'''# Callback to update account details
 @app.callback(
     Output('account-details', 'style'),
     Output('account-details', 'children'),
@@ -158,7 +158,7 @@ def display_account_details(n_clicks):
             html.P("Password: " + "*" * len(user_data["password"]), style={'color': 'black'}),
         ]),
         style={"width": "18rem", "margin": "auto"}
-    )
+    )'''
 
 if __name__ == "__main__":
     app.run(debug=False, port=8055)

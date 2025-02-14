@@ -11,11 +11,11 @@ from statsmodels.tsa.stattools import adfuller
 import dash_bootstrap_components as dbc
 import flask
 
-df_one = pd.read_csv('./modified_sales.csv')
-df_two = pd.read_csv('./synthetic.csv')
+df_one = pd.read_csv('data/modified_sales.csv')
+df_two = pd.read_csv('data/synthetic.csv')
 df_one.drop(columns=['saleID', 'staff_no', 'staff_name', 'customerID','age','county','payment_method','profit',
                  'productID', 'product_name', 'discount'], inplace=True)
-df_cust = pd.read_csv('customers.csv')
+df_cust = pd.read_csv('data/customers.csv')
 
 ##########################PREDICTION USING TIME SERIES ANALYSIS#######################
 #PREPROCESSING
