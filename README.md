@@ -45,7 +45,6 @@ Sprout consists of six dashboards:
 
 ## Notes
 
-- This project originally included a separate home page for access control, but it is not included in this version.
 - Each dashboard runs on a separate port and contains navigation links to the other dashboards.
 - Use the side menu to explore different dashboards.
 
