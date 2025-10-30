@@ -60,17 +60,8 @@ Sprout consists of six dashboards:
 
 ## Future Improvements
 
-- User management and Access Control.
-- Enhancing visualizations and with more interactivity.
-- Expanding analytics with additional/better predictive models.
-- Use of machine learning models for clv and products affinity analysis instead of mathematical/statistical methods.
-
 ## License
 
 This project is open-source. Feel free to modify and extend it as needed.
-
----
-
-For questions or contributions, feel free to reach out!
 
 
